@@ -1,4 +1,4 @@
-# buttercms_flutter
+# ButterCMS Flutter Example CMS Powered Application
 
 This repository is an example of integrating ButterCMS APIs with Flutter applcations.
 
