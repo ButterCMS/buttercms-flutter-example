@@ -8,8 +8,4 @@ WRITE API keys can be fetched from the dashboard and Butter support respectively
 
 For users new to Flutter, the main files are in the 'lib' directory.
 
-Code Author: Deven Joshi   
-
-[Github](https://github.com/deven98)
-
-[Medium](https://medium.com/@dev.n)
+Code Author: Deven Joshi  [Github](https://github.com/deven98) [Medium](https://medium.com/@dev.n)
