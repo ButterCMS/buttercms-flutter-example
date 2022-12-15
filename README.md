@@ -9,3 +9,8 @@ WRITE API keys can be fetched from the dashboard and Butter support respectively
 For users new to Flutter, the main files are in the 'lib' directory.
 
 Code Author: Deven Joshi  [Github](https://github.com/deven98) [Medium](https://medium.com/@dev.n)
+
+### Other Resources
+- Check out the [official ButterCMS Docs](https://buttercms.com/docs/)
+- Check out the [official ButterCMS API docs](https://buttercms.com/docs/api/)
+
